@@ -8,3 +8,7 @@ I am the owner of a Minecraft server called Sunrise Network. Come check it out [
 My discord server : https://discord.sunrisenetwork.eu
 
 I code in python, and I do some web dev. I'm also learning Discord bots dev.
+
+My main projects:
+- My Minecraft server
+- My Discord bot (Agrou)
