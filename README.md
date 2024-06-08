@@ -6,3 +6,5 @@ I enjoy learning new things and speaking english!
 
 I am the owner of a Minecraft server called Sunrise Network. Come check it out [here](https://sunrisenetwork.eu)! 
 My discord server : https://discord.sunrisenetwork.eu
+
+I code in python, and I do some web dev.
