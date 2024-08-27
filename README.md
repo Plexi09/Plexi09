@@ -5,7 +5,7 @@
 ---
 
 ![GitHub followers](https://img.shields.io/github/followers/Plexi09?style=social)
-![Discord]([https://img.shields.io/discord/1131595976197542089?label=Sunrise%20Network&logo=discord&style=flat-square](https://img.shields.io/discord/1131595976197542089?label=Sunrise%20Network&logo=discord&style=flat-square))
+![Discord](https://img.shields.io/discord/1131595976197542089?label=Sunrise%20Network&logo=discord&style=flat-square)
 
 ---
 
