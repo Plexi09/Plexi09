@@ -17,6 +17,8 @@ I'm a passionate developer from France 🇫🇷, focused on creating engaging an
 
 ### 🛠️ Technologies & Tools
 
+
+![Docker](https://img.shields.io/badge/-docker-333?style=flat&logo=docker)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
