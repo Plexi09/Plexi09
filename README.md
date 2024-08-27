@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Plexi!
 
-**🌍 French Full-Stack Developer | 🖥️ Linux Enthusiast | 🧑‍💻 FOSS Advocate**
+**🌍 French Full-Stack Developer | 🐧 Linux Enthusiast | 🧑‍💻 FOSS Advocate**
 
 ---
 
