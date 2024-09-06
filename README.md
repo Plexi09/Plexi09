@@ -18,17 +18,7 @@ I'm a passionate developer from France 🇫🇷, focused on creating engaging an
 ### 🛠️ Technologies & Tools
 
 
-![Docker](https://img.shields.io/badge/-docker-333?style=flat&logo=docker)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
-![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![UnraidOS](https://img.shields.io/badge/-UnraidOS-333?style=flat&logo=unraid)
-![Apache](https://img.shields.io/badge/-Apache-333?style=flat&logo=apache)
+[![Docker][Docker-badge]][Docker-url] [![Python][Python-badge]][Python-url] [![JavaScript][JavaScript-badge]][JavaScript-url] [![Java][Java-badge]][Java-url] [![HTML][HTML-badge]][HTML-url] [![CSS][CSS-badge]][CSS-url] [![PHP][PHP-badge]][PHP-url] [![Linux][Linux-badge]][Linux-url] [![Git][Git-badge]][Git-url] [![UnraidOS][UnraidOS-badge]][UnraidOS-url] [![Apache][Apache-badge]][Apache-url]
 
 ---
 
@@ -46,3 +36,30 @@ I'm a passionate developer from France 🇫🇷, focused on creating engaging an
 - **GitHub**: [Plexi09](https://github.com/Plexi09)
 
 Let's build something amazing together!
+
+
+<!-- BADGE LINKS -->
+[Docker-badge]: https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[Python-badge]: https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[JavaScript-badge]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[Java-badge]: https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white
+[HTML-badge]: https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[CSS-badge]: https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[PHP-badge]: https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+[Linux-badge]: https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+[Git-badge]: https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white
+[UnraidOS-badge]: https://img.shields.io/badge/-UnraidOS-F15A2C?style=for-the-badge&logo=unraid&logoColor=white
+[Apache-badge]: https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white
+
+<!-- URL LINKS -->
+[Docker-url]: https://www.docker.com/
+[Python-url]: https://www.python.org/
+[JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[Java-url]: https://www.java.com/
+[HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[PHP-url]: https://www.php.net/
+[Linux-url]: https://www.linux.org/
+[Git-url]: https://git-scm.com/
+[UnraidOS-url]: https://unraid.net/
+[Apache-url]: https://httpd.apache.org/
