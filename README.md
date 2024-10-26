@@ -29,6 +29,11 @@ I'm a passionate developer from France 🇫🇷, focused on creating engaging an
 
 Let's build something amazing together!
 
+---
+### My stats
+![Plexi09's Stats](https://github-readme-stats.vercel.app/api?username=Plexi09&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Plexi09's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Plexi09&theme=vue-dark&hide_border=true)
+![Plexi09's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Plexi09&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!-- BADGE LINKS -->
 [Docker-badge]: https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
