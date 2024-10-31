@@ -15,7 +15,7 @@ I'm a passionate developer from France 🇫🇷, focused on creating engaging an
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ My Stack
 
 
 [![Docker][Docker-badge]][Docker-url] [![Python][Python-badge]][Python-url] [![JavaScript][JavaScript-badge]][JavaScript-url] [![Java][Java-badge]][Java-url] [![PHP][PHP-badge]][PHP-url] [![Linux][Linux-badge]][Linux-url] [![Git][Git-badge]][Git-url] [![UnraidOS][UnraidOS-badge]][UnraidOS-url] [![Apache][Apache-badge]][Apache-url]
