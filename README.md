@@ -17,8 +17,7 @@ I'm a passionate developer from France 🇫🇷, focused on creating engaging an
 
 ### 🛠️ My Stack
 
-
-[![Docker][Docker-badge]][Docker-url] [![Python][Python-badge]][Python-url] [![JavaScript][JavaScript-badge]][JavaScript-url] [![Java][Java-badge]][Java-url] [![PHP][PHP-badge]][PHP-url] [![Linux][Linux-badge]][Linux-url] [![Git][Git-badge]][Git-url] [![UnraidOS][UnraidOS-badge]][UnraidOS-url] [![Apache][Apache-badge]][Apache-url]
+[![Docker][Docker-badge]][Docker-url] [![Python][Python-badge]][Python-url] [![JavaScript][JavaScript-badge]][JavaScript-url] [![Java][Java-badge]][Java-url] [![PHP][PHP-badge]][PHP-url] [![Linux][Linux-badge]][Linux-url] [![Git][Git-badge]][Git-url] [![UnraidOS][UnraidOS-badge]][UnraidOS-url] [![Apache][Apache-badge]][Apache-url] [![Appwrite][Appwrite-badge]][Appwrite-url] [![JetBrains][JetBrains-badge]][JetBrains-url] [![VS Code][VSCode-badge]][VSCode-url] [![Heroku][Heroku-badge]][Heroku-url] [![Sentry][Sentry-badge]][Sentry-url] [![Astro][Astro-badge]][Astro-url]
 
 ---
 
@@ -47,6 +46,12 @@ Let's build something amazing together!
 [Git-badge]: https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white
 [UnraidOS-badge]: https://img.shields.io/badge/-UnraidOS-F15A2C?style=for-the-badge&logo=unraid&logoColor=white
 [Apache-badge]: https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white
+[Appwrite-badge]: https://img.shields.io/badge/-Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white
+[JetBrains-badge]: https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white
+[VSCode-badge]: https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[Heroku-badge]: https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
+[Sentry-badge]: https://img.shields.io/badge/-Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white
+[Astro-badge]: https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white
 
 <!-- URL LINKS -->
 [Docker-url]: https://www.docker.com/
@@ -60,3 +65,9 @@ Let's build something amazing together!
 [Git-url]: https://git-scm.com/
 [UnraidOS-url]: https://unraid.net/
 [Apache-url]: https://httpd.apache.org/
+[Appwrite-url]: https://appwrite.io/
+[JetBrains-url]: https://www.jetbrains.com/
+[VSCode-url]: https://code.visualstudio.com/
+[Heroku-url]: https://www.heroku.com/
+[Sentry-url]: https://sentry.io/
+[Astro-url]: https://astro.build/
