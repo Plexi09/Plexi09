@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate developer from France 🇫🇷, focused on creating engaging and efficient websites, Minecraft plugins, and Discord bots. My journey in tech is driven by curiosity and a love for open-source software.
+I'm a passionate developer from France 🇫🇷, focused on creating websites, Minecraft plugins, Discord bots and a lot of random stuff. I love for open-source software.
 
 ---
 
