@@ -1,11 +1,6 @@
 # Hi there 👋, I'm Plexi!
 
-**🌍 French Full-Stack Developer | 🐧 Linux Enthusiast | 🧑‍💻 FOSS Advocate**
-
----
-
-![GitHub followers](https://img.shields.io/github/followers/Plexi09?style=social)
-![Discord](https://img.shields.io/discord/1131595976197542089?label=Sunrise%20Network&logo=discord&style=flat-square)
+**🌍 French Full-Stack Developer**
 
 ---
 
@@ -17,7 +12,24 @@ I'm a passionate developer from France 🇫🇷, focused on creating websites, M
 
 ### 🛠️ My Stack
 
-[![Docker][Docker-badge]][Docker-url] [![Python][Python-badge]][Python-url] [![JavaScript][JavaScript-badge]][JavaScript-url] [![Java][Java-badge]][Java-url] [![PHP][PHP-badge]][PHP-url] [![Linux][Linux-badge]][Linux-url] [![Git][Git-badge]][Git-url] [![UnraidOS][UnraidOS-badge]][UnraidOS-url] [![Apache][Apache-badge]][Apache-url] [![Appwrite][Appwrite-badge]][Appwrite-url] [![JetBrains][JetBrains-badge]][JetBrains-url] [![VS Code][VSCode-badge]][VSCode-url] [![Heroku][Heroku-badge]][Heroku-url] [![Sentry][Sentry-badge]][Sentry-url] [![Astro][Astro-badge]][Astro-url]
+  [![Python][Python-badge]][Python-url]
+  [![JavaScript][JavaScript-badge]][JavaScript-url]
+  [![Java][Java-badge]][Java-url]
+  [![PHP][PHP-badge]][PHP-url]
+  [![HTML][HTML-badge]][HTML-url]
+  [![CSS][CSS-badge]][CSS-url]
+  [![Docker][Docker-badge]][Docker-url]
+  [![Linux][Linux-badge]][Linux-url]
+  [![Git][Git-badge]][Git-url]
+  [![UnraidOS][UnraidOS-badge]][UnraidOS-url]
+  [![Apache][Apache-badge]][Apache-url]
+  [![Appwrite][Appwrite-badge]][Appwrite-url]
+  [![JetBrains][JetBrains-badge]][JetBrains-url]
+  [![VSCode][VSCode-badge]][VSCode-url]
+  [![Heroku][Heroku-badge]][Heroku-url]
+  [![Sentry][Sentry-badge]][Sentry-url]
+  [![Astro][Astro-badge]][Astro-url]
+  [![Chainlit][Chainlit-badge]][Chainlit-url]
 
 ---
 
@@ -29,6 +41,7 @@ I'm a passionate developer from France 🇫🇷, focused on creating websites, M
 Let's build something amazing together!
 
 ---
+
 ### My stats
 ![Plexi09's Stats](https://github-readme-stats.vercel.app/api?username=Plexi09&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Plexi09's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Plexi09&theme=vue-dark&hide_border=true)
@@ -52,6 +65,7 @@ Let's build something amazing together!
 [Heroku-badge]: https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
 [Sentry-badge]: https://img.shields.io/badge/-Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white
 [Astro-badge]: https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white
+[Chainlit-badge]: https://img.shields.io/badge/-Chainlit-0C0C0C?style=for-the-badge&logo=chainlit&logoColor=white
 
 <!-- URL LINKS -->
 [Docker-url]: https://www.docker.com/
@@ -71,3 +85,4 @@ Let's build something amazing together!
 [Heroku-url]: https://www.heroku.com/
 [Sentry-url]: https://sentry.io/
 [Astro-url]: https://astro.build/
+[Chainlit-url]: https://chainlit.io/
