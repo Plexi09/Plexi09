@@ -6,30 +6,43 @@
 
 ### 🚀 About Me
 
-I'm a passionate developer from France 🇫🇷, focused on creating websites, Minecraft plugins, Discord bots and a lot of random stuff. I love for open-source software.
+I'm a passionate developer from France 🇫🇷, focused on creating websites, Minecraft plugins, Discord bots and a lot of random stuff. I love open-source software.
 
 ---
 
 ### 🛠️ My Stack
 
-  [![Python][Python-badge]][Python-url]
-  [![JavaScript][JavaScript-badge]][JavaScript-url]
-  [![Java][Java-badge]][Java-url]
-  [![PHP][PHP-badge]][PHP-url]
-  [![HTML][HTML-badge]][HTML-url]
-  [![CSS][CSS-badge]][CSS-url]
-  [![Docker][Docker-badge]][Docker-url]
-  [![Linux][Linux-badge]][Linux-url]
-  [![Git][Git-badge]][Git-url]
-  [![UnraidOS][UnraidOS-badge]][UnraidOS-url]
-  [![Apache][Apache-badge]][Apache-url]
-  [![Appwrite][Appwrite-badge]][Appwrite-url]
-  [![JetBrains][JetBrains-badge]][JetBrains-url]
-  [![VSCode][VSCode-badge]][VSCode-url]
-  [![Heroku][Heroku-badge]][Heroku-url]
-  [![Sentry][Sentry-badge]][Sentry-url]
-  [![Astro][Astro-badge]][Astro-url]
-  [![Chainlit][Chainlit-badge]][Chainlit-url]
+#### Languages
+  ![Python][Python-badge]
+  ![JavaScript][JavaScript-badge]
+  ![Java][Java-badge]
+  ![PHP][PHP-badge]
+  ![HTML][HTML-badge]
+  ![CSS][CSS-badge]
+
+#### Databases
+  ![Appwrite][Appwrite-badge]
+
+#### Technologies
+  ![Docker][Docker-badge]
+  ![Apache][Apache-badge]
+  ![Sentry][Sentry-badge]
+  ![Astro][Astro-badge]
+  ![Chainlit][Chainlit-badge]
+
+#### IDEs
+  ![JetBrains][JetBrains-badge]
+  ![VSCode][VSCode-badge]
+
+#### Operating Systems
+  ![Linux][Linux-badge]
+  ![UnraidOS][UnraidOS-badge]
+
+---
+
+### 📚 I'm currently learning
+
+  ![Ruby][Ruby-badge]
 
 ---
 
@@ -48,24 +61,25 @@ Let's build something amazing together!
 ![Plexi09's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Plexi09&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!-- BADGE LINKS -->
-[Docker-badge]: https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-[Python-badge]: https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[JavaScript-badge]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-[Java-badge]: https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white
-[HTML-badge]: https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[CSS-badge]: https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[PHP-badge]: https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-[Linux-badge]: https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-[Git-badge]: https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white
-[UnraidOS-badge]: https://img.shields.io/badge/-UnraidOS-F15A2C?style=for-the-badge&logo=unraid&logoColor=white
-[Apache-badge]: https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white
-[Appwrite-badge]: https://img.shields.io/badge/-Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white
-[JetBrains-badge]: https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white
-[VSCode-badge]: https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
-[Heroku-badge]: https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
-[Sentry-badge]: https://img.shields.io/badge/-Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white
-[Astro-badge]: https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white
-[Chainlit-badge]: https://img.shields.io/badge/-Chainlit-0C0C0C?style=for-the-badge&logo=chainlit&logoColor=white
+[Docker-badge]: https://img.shields.io/badge/-Docker-323330?style=for-the-badge&logo=docker&logoColor=2496ED
+[Python-badge]: https://img.shields.io/badge/-Python-323330?style=for-the-badge&logo=python&logoColor=3776AB
+[JavaScript-badge]: https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[Java-badge]: https://img.shields.io/badge/-Java-323330?style=for-the-badge&logo=java&logoColor=007396
+[HTML-badge]: https://img.shields.io/badge/-HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26
+[CSS-badge]: https://img.shields.io/badge/-CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6
+[PHP-badge]: https://img.shields.io/badge/-PHP-323330?style=for-the-badge&logo=php&logoColor=777BB4
+[Linux-badge]: https://img.shields.io/badge/-Linux-323330?style=for-the-badge&logo=linux&logoColor=FCC624
+[Git-badge]: https://img.shields.io/badge/-Git-323330?style=for-the-badge&logo=git&logoColor=F05032
+[UnraidOS-badge]: https://img.shields.io/badge/-UnraidOS-323330?style=for-the-badge&logo=unraid&logoColor=F15A2C
+[Apache-badge]: https://img.shields.io/badge/-Apache-323330?style=for-the-badge&logo=apache&logoColor=D22128
+[Appwrite-badge]: https://img.shields.io/badge/-Appwrite-323330?style=for-the-badge&logo=appwrite&logoColor=FD366E
+[JetBrains-badge]: https://img.shields.io/badge/-JetBrains-323330?style=for-the-badge&logo=jetbrains&logoColor=000000
+[VSCode-badge]: https://img.shields.io/badge/-VS_Code-323330?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC
+[Heroku-badge]: https://img.shields.io/badge/-Heroku-323330?style=for-the-badge&logo=heroku&logoColor=430098
+[Sentry-badge]: https://img.shields.io/badge/-Sentry-323330?style=for-the-badge&logo=sentry&logoColor=362D59
+[Astro-badge]: https://img.shields.io/badge/-Astro-323330?style=for-the-badge&logo=astro&logoColor=FF5D01
+[Chainlit-badge]: https://img.shields.io/badge/-Chainlit-323330?style=for-the-badge&logo=chainlit&logoColor=0C0C0C
+[Ruby-badge]: https://img.shields.io/badge/-Ruby-323330?style=for-the-badge&logo=ruby&logoColor=CC342D
 
 <!-- URL LINKS -->
 [Docker-url]: https://www.docker.com/
@@ -86,3 +100,4 @@ Let's build something amazing together!
 [Sentry-url]: https://sentry.io/
 [Astro-url]: https://astro.build/
 [Chainlit-url]: https://chainlit.io/
+[Ruby-url]: https://www.ruby-lang.org/
