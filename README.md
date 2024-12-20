@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate developer from France 🇫🇷, focused on creating websites, Minecraft plugins, Discord bots and a lot of random stuff. I love open-source software.
+I'm a passionate developer from France 🇫🇷, focused on creating websites, Minecraft plugins, Discord bots and a lot of random stuff. I love open-source software. Feel free to reach out on Discord.
 
 ---
 
@@ -19,9 +19,13 @@ I'm a passionate developer from France 🇫🇷, focused on creating websites, M
   ![PHP][PHP-badge]
   ![HTML][HTML-badge]
   ![CSS][CSS-badge]
+  ![SQL][SQL-badge]
 
 #### Databases
   ![Appwrite][Appwrite-badge]
+  ![SQLite][SQLite-badge]
+  ![SQLAlchemy][SQLAlchemy-badge]
+  ![MySQL][MySQL-badge]
 
 #### Technologies
   ![Docker][Docker-badge]
@@ -29,6 +33,7 @@ I'm a passionate developer from France 🇫🇷, focused on creating websites, M
   ![Sentry][Sentry-badge]
   ![Astro][Astro-badge]
   ![Chainlit][Chainlit-badge]
+  ![Git][Git-badge]
 
 #### IDEs
   ![JetBrains][JetBrains-badge]
@@ -37,6 +42,7 @@ I'm a passionate developer from France 🇫🇷, focused on creating websites, M
 #### Operating Systems
   ![Linux][Linux-badge]
   ![UnraidOS][UnraidOS-badge]
+  ![Windows][Windows-badge]
 
 ---
 
@@ -80,6 +86,11 @@ Let's build something amazing together!
 [Astro-badge]: https://img.shields.io/badge/-Astro-323330?style=for-the-badge&logo=astro&logoColor=FF5D01
 [Chainlit-badge]: https://img.shields.io/badge/-Chainlit-323330?style=for-the-badge&logo=chainlit&logoColor=0C0C0C
 [Ruby-badge]: https://img.shields.io/badge/-Ruby-323330?style=for-the-badge&logo=ruby&logoColor=CC342D
+[SQL-badge]: https://img.shields.io/badge/-SQL-323330?style=for-the-badge&logo=sql&logoColor=1572B6
+[SQLite-badge]: https://img.shields.io/badge/-SQLite-323330?style=for-the-badge&logo=sqlite&logoColor=003B57
+[SQLAlchemy-badge]: https://img.shields.io/badge/-SQLAlchemy-323330?style=for-the-badge&logo=sqlalchemy&logoColor=CE563D
+[MySQL-badge]: https://img.shields.io/badge/-MySQL-323330?style=for-the-badge&logo=mysql&logoColor=4479A1
+[Windows-badge]: https://img.shields.io/badge/-Windows-323330?style=for-the-badge&logo=windows&logoColor=0078D6
 
 <!-- URL LINKS -->
 [Docker-url]: https://www.docker.com/
