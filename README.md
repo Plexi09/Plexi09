@@ -4,13 +4,13 @@
 
 ---
 
-### 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 I'm a passionate developer from France 🇫🇷, focused on creating websites, Minecraft plugins, Discord bots and a lot of random stuff. I love open-source software. Feel free to reach out on Discord.
 
 ---
 
-### 🛠️ My Stack
+<h2 align="center">🛠️ My Stack</h2>
 
 #### Languages
   ![Python][Python-badge]
@@ -46,25 +46,52 @@ I'm a passionate developer from France 🇫🇷, focused on creating websites, M
 
 ---
 
-### 📚 I'm currently learning
+<h2 align="center">📚 I'm currently learning</h2>
 
   ![Ruby][Ruby-badge]
 
 ---
 
-### 📫 Connect with Me
+<h2 align="center">📫 Connect with Me</h2>
 
-- **Discord**: [Sunrise Network](https://discord.gg/gR2myyBqwH)
-- **GitHub**: [Plexi09](https://github.com/Plexi09)
-
-Let's build something amazing together!
+<div width="100%" display="flex" align="center">
+<a href="mailto:contact@plexi09.me">
+<img src="https://img.icons8.com/color/48/gmail-new.png"/>
+</div>
 
 ---
 
-### My stats
-![Plexi09's Stats](https://github-readme-stats.vercel.app/api?username=Plexi09&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Plexi09's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Plexi09&theme=vue-dark&hide_border=true)
-![Plexi09's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Plexi09&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+<h2 align="center">📈Activity on Github</h2>
+
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=plexi09&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=plexi09&date_format=M%20j%5B%2C%20Y%5D" />
+  <img alt="streak" src="streak.svg" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=plexi09&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=plexi09" />
+  <img alt="profile-details" src="profile-details.svg" />
+  </picture>
+</p>
+
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=plexi09&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=plexi09" />
+  <img alt="repos-per-language" src="repos-per-language.svg" />
+  </picture>
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=plexi09&theme=radical&utcOffset=8" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=plexi09&utcOffset=8" />
+  <img alt="productive-time" src="productive-time.svg" />
+  </picture>
+</div>
 
 <!-- BADGE LINKS -->
 [Docker-badge]: https://img.shields.io/badge/-Docker-323330?style=for-the-badge&logo=docker&logoColor=2496ED
