@@ -87,7 +87,7 @@ I'm a passionate developer from France 🇫🇷, focused on creating websites, M
   </picture>
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=plexi09&theme=radical&utcOffset=8" />
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=plexi09&theme=radical&utcOffset=2" />
   <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=plexi09&utcOffset=2" />
   <img alt="productive-time" src="productive-time.svg" />
   </picture>
