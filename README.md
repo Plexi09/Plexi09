@@ -46,53 +46,6 @@ I'm a passionate developer from France 🇫🇷, focused on creating websites, M
 
 ---
 
-<h2 align="center">📚 I'm currently learning</h2>
-
-  ![Ruby][Ruby-badge]
-
----
-
-<h2 align="center">📫 Connect with Me</h2>
-
-<div width="100%" display="flex" align="center">
-<a href="mailto:contact@plexi09.me">
-<img src="https://img.icons8.com/color/48/gmail-new.png"/>
-</div>
-
----
-
-
-<h2 align="center">📈Activity on Github</h2>
-
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=plexi09&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=plexi09&date_format=M%20j%5B%2C%20Y%5D" />
-  <img alt="streak" src="streak.svg" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=plexi09&theme=radical" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=plexi09" />
-  <img alt="profile-details" src="profile-details.svg" />
-  </picture>
-</p>
-
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=plexi09&theme=radical" />
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=plexi09" />
-  <img alt="repos-per-language" src="repos-per-language.svg" />
-  </picture>
-
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=plexi09&theme=radical&utcOffset=2" />
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=plexi09&utcOffset=2" />
-  <img alt="productive-time" src="productive-time.svg" />
-  </picture>
-</div>
-
 <!-- BADGE LINKS -->
 [Docker-badge]: https://img.shields.io/badge/-Docker-323330?style=for-the-badge&logo=docker&logoColor=2496ED
 [Python-badge]: https://img.shields.io/badge/-Python-323330?style=for-the-badge&logo=python&logoColor=3776AB
