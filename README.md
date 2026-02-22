@@ -2,12 +2,13 @@
 
 **🌍 French Full-Stack Developer**
 
+> [!WARNING]
+> ### I have migrated my activity to my selfhosted git instance at https://git.plexi09.me/plexi09/ and I am not using GitHub for my personal projects anymore.
 ---
 
 <h2 align="center">🚀 About Me</h2>
 
 I'm a passionate developer from France 🇫🇷, focused on building websites, developing Minecraft plugins, crafting Discord bots, and contributing to various creative coding projects. I am an open-source enthusiast. Feel free to reach out on Discord.
-*Currently, my professional career and academic studies are taking priority, limiting the time I can dedicate to development. While I plan to be more active in the future, please expect lower activity on this profile for the time being.*
 
 ---
 
@@ -93,4 +94,5 @@ I'm a passionate developer from France 🇫🇷, focused on building websites, d
 [Astro-url]: https://astro.build/
 [Chainlit-url]: https://chainlit.io/
 [Ruby-url]: https://www.ruby-lang.org/
+
 
