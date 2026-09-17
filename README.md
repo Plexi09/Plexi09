@@ -2,10 +2,6 @@
 
 **🌍 French Full-Stack Developer**
 
-> [!WARNING]
-> ### I have migrated my activity to my selfhosted git instance at https://git.plexi09.me/plexi09/ and I am not using GitHub for my personal projects anymore.
----
-
 <h2 align="center">🚀 About Me</h2>
 
 I'm a passionate developer from France 🇫🇷, focused on building websites, developing Minecraft plugins, crafting Discord bots, and contributing to various creative coding projects. I am an open-source enthusiast. Feel free to reach out on Discord.
