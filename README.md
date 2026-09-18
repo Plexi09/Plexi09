@@ -4,7 +4,8 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-I'm a passionate developer from France 🇫🇷, focused on building websites, developing Minecraft plugins, crafting Discord bots, and contributing to various creative coding projects. I am an open-source enthusiast. Feel free to reach out on Discord.
+I'm a passionate developer from France 🇫🇷
+If you don't see much activity on this acount, it's because I mostly write code that makes money.
 
 ---
 
