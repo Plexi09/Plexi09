@@ -1,36 +1,41 @@
-# Hi there 👋, I'm Plexi!
+# Hi there, I'm Plexi!
 
-**🌍 French Full-Stack Developer**
+<h2 align="center">About Me</h2>
 
-<h2 align="center">🚀 About Me</h2>
+I'm a passionate developer from France.
+If you don't see much activity on this account, it's because I mostly write code that makes money.
 
-I'm a passionate developer from France 🇫🇷.
-If you don't see much activity on this acount, it's because I mostly write code that makes money (github hides activity from private repos)
+Currently learning Rust
 
----
+***
 
-<h2 align="center">🛠️ My Stack</h2>
+<h2 align="center">My Stack</h2>
 
 #### Languages
   ![Python][Python-badge]
   ![JavaScript][JavaScript-badge]
+  ![Rust][Rust-badge]
   ![Java][Java-badge]
   ![PHP][PHP-badge]
   ![HTML][HTML-badge]
-  ![CSS][CSS-badge]
-  ![SQL][SQL-badge]
 
 #### Databases
-  ![Appwrite][Appwrite-badge]
+  ![MariaDB][MariaDB-badge]
+  ![MySQL][MySQL-badge]
   ![SQLite][SQLite-badge]
   ![SQLAlchemy][SQLAlchemy-badge]
-  ![MySQL][MySQL-badge]
+  ![Appwrite][Appwrite-badge]
 
 #### Technologies
+  ![Godot][Godot-badge]
+  ![DaVinci Resolve][DaVinci-badge]
+  ![OpenCode][OpenCode-badge]
+  ![Llama.cpp][Llamacpp-badge]
+  ![Nginx][Nginx-badge]
+  ![Cloudflare][Cloudflare-badge]
   ![Docker][Docker-badge]
   ![Apache][Apache-badge]
   ![Sentry][Sentry-badge]
-  ![Astro][Astro-badge]
   ![Chainlit][Chainlit-badge]
   ![Git][Git-badge]
 
@@ -43,9 +48,17 @@ If you don't see much activity on this acount, it's because I mostly write code 
   ![UnraidOS][UnraidOS-badge]
   ![Windows][Windows-badge]
 
----
+***
 
 <!-- BADGE LINKS -->
+[Rust-badge]: https://img.shields.io/badge/-Rust-323330?style=for-the-badge&logo=rust&logoColor=E34F26
+[MariaDB-badge]: https://img.shields.io/badge/-MariaDB-323330?style=for-the-badge&logo=mariadb&logoColor=003545
+[Nginx-badge]: https://img.shields.io/badge/-NGINX-323330?style=for-the-badge&logo=nginx&logoColor=009639
+[Cloudflare-badge]: https://img.shields.io/badge/-Cloudflare-323330?style=for-the-badge&logo=cloudflare&logoColor=F38020
+[Llamacpp-badge]: https://img.shields.io/badge/-Llama.cpp-323330?style=for-the-badge
+[Godot-badge]: https://img.shields.io/badge/-Godot-323330?style=for-the-badge&logo=godot-engine&logoColor=478CBF
+[DaVinci-badge]: https://img.shields.io/badge/-DaVinci_Resolve-323330?style=for-the-badge&logo=davinci-resolve&logoColor=CA5454
+[OpenCode-badge]: https://img.shields.io/badge/-OpenCode-323330?style=for-the-badge
 [Docker-badge]: https://img.shields.io/badge/-Docker-323330?style=for-the-badge&logo=docker&logoColor=2496ED
 [Python-badge]: https://img.shields.io/badge/-Python-323330?style=for-the-badge&logo=python&logoColor=3776AB
 [JavaScript-badge]: https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
@@ -58,7 +71,7 @@ If you don't see much activity on this acount, it's because I mostly write code 
 [UnraidOS-badge]: https://img.shields.io/badge/-UnraidOS-323330?style=for-the-badge&logo=unraid&logoColor=F15A2C
 [Apache-badge]: https://img.shields.io/badge/-Apache-323330?style=for-the-badge&logo=apache&logoColor=D22128
 [Appwrite-badge]: https://img.shields.io/badge/-Appwrite-323330?style=for-the-badge&logo=appwrite&logoColor=FD366E
-[JetBrains-badge]: https://img.shields.io/badge/-JetBrains-323330?style=for-the-badge&logo=jetbrains&logoColor=000000
+[JetBrains-badge]: https://img.shields.io/badge/-JetBrains-323330?style=for-the-badge&logo=jetbrains&logoColor=FFFFFF
 [VSCode-badge]: https://img.shields.io/badge/-VS_Code-323330?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC
 [Heroku-badge]: https://img.shields.io/badge/-Heroku-323330?style=for-the-badge&logo=heroku&logoColor=430098
 [Sentry-badge]: https://img.shields.io/badge/-Sentry-323330?style=for-the-badge&logo=sentry&logoColor=362D59
@@ -72,6 +85,13 @@ If you don't see much activity on this acount, it's because I mostly write code 
 [Windows-badge]: https://img.shields.io/badge/-Windows-323330?style=for-the-badge&logo=windows&logoColor=0078D6
 
 <!-- URL LINKS -->
+[Rust-url]: https://www.rust-lang.org/
+[MariaDB-url]: https://mariadb.org/
+[Nginx-url]: https://nginx.org/
+[Cloudflare-url]: https://www.cloudflare.com/
+[Llamacpp-url]: https://github.com/ggerganov/llama.cpp
+[Godot-url]: https://godotengine.org/
+[DaVinci-url]: https://www.blackmagicdesign.com/products/davinciresolve
 [Docker-url]: https://www.docker.com/
 [Python-url]: https://www.python.org/
 [JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -91,5 +111,3 @@ If you don't see much activity on this acount, it's because I mostly write code 
 [Astro-url]: https://astro.build/
 [Chainlit-url]: https://chainlit.io/
 [Ruby-url]: https://www.ruby-lang.org/
-
-
