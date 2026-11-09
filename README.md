@@ -5,7 +5,7 @@
 I'm a passionate developer from France.
 If you don't see much activity on this account, it's because I mostly write code that makes money.
 
-Currently learning [Rust][Rust-badge]
+Currently learning ![Rust][Rust-badge]
 
 ***
 
